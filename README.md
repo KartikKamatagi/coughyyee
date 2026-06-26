@@ -160,7 +160,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/karthik-kamatagi-12b73a386/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

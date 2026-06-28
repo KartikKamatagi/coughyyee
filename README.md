@@ -62,7 +62,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 # 🌟 Featured Projects
 
-## 🍔 Food Order System
+## 🍔 Online Food Order System
 
 ✔ React JS
 

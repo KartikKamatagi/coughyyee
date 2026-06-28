@@ -68,6 +68,8 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 ✔ REST API
 
+✔ Context API
+
 ✔ Routing
 
 ✔ Responsive UI

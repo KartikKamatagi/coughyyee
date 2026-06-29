@@ -13,7 +13,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 # 💫 About Me
 
-🎓 BCA Graduate
+🎓 BCA Graduate.
 
 💻 Java Full Stack Developer
 

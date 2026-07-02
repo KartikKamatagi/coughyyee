@@ -23,7 +23,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 📚 Love solving coding problems and learning new technologies.
 
-🎯 Goal: Become a Software Engineer in a Product-Based Company.
+🎯 Goal: Become a Software Engineer in a Product-Based Company..
 
 ---
 

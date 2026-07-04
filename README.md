@@ -161,31 +161,23 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 # 🌐 Connect With Me
 
-Portfolio: /
 
-<a href="https://kartikkportfolio.vercel.app">
-
-</a>
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/karthik-kamatagi-12b73a386/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<a href="https://kartikkportfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge" alt="Portfolio"/> </a>
 
-<a href="https://instagram.com/k4rtik_rk">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+<a href="https://www.linkedin.com/in/karthik-kamatagi-12b73a386/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
 
-<a href="mailto:kartikkamatagi2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<a href="https://instagram.com/k4rtik_rk" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram"/> </a>
 
-<a href="https://github.com/KartikKamatagi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<a href="mailto:kartikkamatagi2004@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
+
+<a href="https://github.com/KartikKamatagi" target="_blank"> <img src="https://skillicons.dev/icons?i=github"/> </a>
 
 </p>
+
+<p align="center"> 🌐 <strong>Portfolio:</strong> <a href="https://kartikkportfolio.vercel.app">https://kartikkportfolio.vercel.app</a> </p>
 
 ---
 

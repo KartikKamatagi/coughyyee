@@ -185,7 +185,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 <p align="center">
 
-> "Code. Learn. Build. Repeat."
+> "Code. Learn. Build.. Repeat."
 
 </p>
 

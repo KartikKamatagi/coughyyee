@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Kamatagi</h1>
 
 <h3 align="center">
-Java Full Stack Developer. | BCA Graduate | React Developer
+Java Full Stack Developer. | BCA Graduate |React Developer
 </h3>
 
 <p align="center">

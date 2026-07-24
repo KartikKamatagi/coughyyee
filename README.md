@@ -7,6 +7,7 @@ Java Full Stack Developer | BCA Graduate | React Developer
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;Open+Source+Learner;Always+Learning+New+Technologies" />
+  
 </p>
 
 ---
